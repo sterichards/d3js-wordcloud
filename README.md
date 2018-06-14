@@ -3,4 +3,4 @@ d3js-wordcloud
 
 ## Install
 
-``` bower install```
+``` bower install shprink/d3js-wordcloud```
